@@ -1,0 +1,11 @@
+.container{
+    margin: 200px;
+    padding: 10px;
+    min-height: 300px;
+    min-width: 30px;
+}
+.header{
+    text-align: Left;
+    color: goldenrod;
+    text-transform: uppercase;
+}
